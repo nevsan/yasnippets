@@ -1,0 +1,6 @@
+#name : \begin{Definition}[...] \item ... \end{theorem}
+# --
+
+\begin{definition}[${1:}]
+	$0
+\end{definition}

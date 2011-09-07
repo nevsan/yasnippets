@@ -1,0 +1,7 @@
+#name : \begin{enumerate} \item ... \end{enumerate}
+# --
+
+\begin{enumerate}
+	\renewcommand{\labelenumi}{(\alph{enumi})}
+	\item $0
+\end{enumerate}

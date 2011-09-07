@@ -1,0 +1,9 @@
+#name : Begin a figure containing a tikzpicture
+# --
+\begin{figure}
+	\centering
+	\begin{tikzpicture}
+		$0
+	\end{tikzpicture}
+	\caption{${5:caption}  \label{fig:${6:name}}}
+\end{figure}

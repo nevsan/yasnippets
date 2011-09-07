@@ -1,0 +1,6 @@
+#name : \begin{theorem} \item ... \end{theorem}
+# --
+
+\begin{theorem}[${1:}]
+	$0
+\end{theorem}

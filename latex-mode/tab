@@ -1,0 +1,9 @@
+#name : \begin{table}[h]\centring\begin{tabular} ... \end{tabular}\end{table}
+# --
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{${1:format}}
+$0
+	\end{tabular}
+\end{table}

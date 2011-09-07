@@ -1,0 +1,6 @@
+#name : \begin{proof} \item ... \end{proof}
+# --
+
+\begin{proof}
+	$0
+\end{proof}

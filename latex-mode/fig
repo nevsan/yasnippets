@@ -1,0 +1,7 @@
+#name : Begin a figure including a graphic
+# --
+\begin{figure}
+	\centering
+	\includegraphics{${3:file}}
+	\caption{${1:caption}  \label{fig:${2:name}}}
+\end{figure}
