@@ -1,0 +1,5 @@
+#name : else begin ... end
+# --
+else begin
+   $0
+end

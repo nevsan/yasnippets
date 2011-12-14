@@ -1,0 +1,5 @@
+#name : if (...) begin ... end
+# --
+if (${1:cont}) begin
+   $0
+end

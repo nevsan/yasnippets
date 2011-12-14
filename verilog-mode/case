@@ -1,0 +1,7 @@
+#name : case (...) ... endcase
+# --
+case (${1})
+
+       $0
+
+endcase

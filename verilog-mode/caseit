@@ -1,0 +1,5 @@
+#name : <CASE> : begin ... end
+# --
+${1:case} : begin
+   $0
+end

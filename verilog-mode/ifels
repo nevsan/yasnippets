@@ -1,0 +1,8 @@
+#name : if (...) begin ... end else begin ... end
+# --
+if (${1:reset}) begin
+   $0
+end
+else begin
+
+end

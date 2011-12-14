@@ -1,0 +1,6 @@
+#name : always @(posedge ...) begin ... end
+# --
+always @(posedge ${1:clk})
+       begin
+       $0
+       end
